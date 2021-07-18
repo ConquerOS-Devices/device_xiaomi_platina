@@ -30,6 +30,9 @@ DEVICE_PATH := device/xiaomi/platina
 # Assert
 TARGET_OTA_ASSERT_DEVICE := platina
 
+#APEX
+TARGET_ENABLE_APEX := true
+
 # Boot animation
 TARGET_SCREEN_HEIGHT := 2280
 TARGET_SCREEN_WIDTH := 1080
